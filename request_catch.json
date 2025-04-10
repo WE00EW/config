@@ -1,5 +1,10 @@
 [
     {
+        "key": "RoaVGss",
+        "value": [],
+        "token": "local-vuex.user.token"
+    },
+    {
         "key": "RoaVG",
         "value": [],
         "token": "local-vuex.user.token"
