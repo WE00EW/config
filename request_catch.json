@@ -1,89 +1,124 @@
-[{
-    "key": "/xxa/",
-    "value": "local-userData.user.userInfo.userId",
-    "token": "local-userData.user.userInfo.userId"
-}, {
-    "key": "/liveapi/",
-    "value": "x-device-id",
-    "token": "x-auth-token"
-}, {
-    "key": "/api/v1",
-    "value": [],
-    "token": "x-api-token"
-}, {
-    "key": "/scytale/",
-    "value": "",
-    "token": "cookie-token"
-}, {
-    "key": "user/userInfo",
-    "value": "param-deviceId",
-    "token": "param-token"
-}, {
-    "key": "/fd/api/v1/pay/check",
-    "token": "X-Api-Token",
-    "value": []
-}, {
-    "key": "/hall/gameapi/logout",
-    "token": "Token",
-    "value": []
-}, {
-    "key": "/wps/v2/wallets/balance",
-    "token": "Authorization",
-    "value": []
-}, {
-    "key": "/api/game/fund/wallet",
-    "token": "Authorization",
-    "value": ["Deviceno"]
-}, {
-    "key": "/api/account/balance",
-    "token": "Authorization",
-    "value": ["Deviceno"]
-}, {
-    "key": "/xxxx",
-    "token": "X-Api-Token",
-    "value": []
-}, {
-    "key": "/api/forehead/gamebet/digital/balance",
-    "token": "Token",
-    "value": ["Device-ID", "Uid"]
-}, {
-    "key": "/Apis/Index/isLogin",
-    "token": "Cookie",
-    "value": []
-}, {
-    "key": "/user/get/info",
-    "token": "Authorization",
-    "value": []
-}, {
-    "key": "/api/Balance/v2.0",
-    "token": "Authorization",
-    "value": []
-}, {
-    "key": "/api/webajax/loop",
-    "token": "cookie",
-    "value": []
-}, {
-    "key": "/sobet/pay/getPlayerBalance",
-    "token": "x-xsrf-token",
-    "value": []
-}, {
-    "key": "/api/User/QueryDetails",
-    "token": "authorization",
-    "value": []
-}, {
-    "key": "/session/balance",
-    "token": "token",
-    "value": []
-}, {
-    "key": "/game/wallet/gameListBalance",
-    "token": "Token",
-    "value": []
-}, {
-    "key": "/api/account/list-full-info",
-    "token": "Cookie",
-    "value": []
-}, {
-    "key": "/user/balance",
-    "token": "Cookie",
-    "value": []
-}]
+[
+    {
+        "key": "RoaVG",
+        "value": [],
+        "token": "local-vuex.user.token"
+    },
+    {
+        "key": "/xxa/",
+        "value": "local-userData.user.userInfo.userId",
+        "token": "local-userData.user.userInfo.userId"
+    },
+    {
+        "key": "/liveapi/",
+        "value": "x-device-id",
+        "token": "x-auth-token"
+    },
+    {
+        "key": "/api/v1",
+        "value": [],
+        "token": "x-api-token"
+    },
+    {
+        "key": "/scytale/",
+        "value": "",
+        "token": "cookie-token"
+    },
+    {
+        "key": "user/userInfo",
+        "value": "param-deviceId",
+        "token": "param-token"
+    },
+    {
+        "key": "/fd/api/v1/pay/check",
+        "token": "X-Api-Token",
+        "value": []
+    },
+    {
+        "key": "/hall/gameapi/logout",
+        "token": "Token",
+        "value": []
+    },
+    {
+        "key": "/wps/v2/wallets/balance",
+        "token": "Authorization",
+        "value": []
+    },
+    {
+        "key": "/api/game/fund/wallet",
+        "token": "Authorization",
+        "value": [
+            "Deviceno"
+        ]
+    },
+    {
+        "key": "/api/account/balance",
+        "token": "Authorization",
+        "value": [
+            "Deviceno"
+        ]
+    },
+    {
+        "key": "/xxxx",
+        "token": "X-Api-Token",
+        "value": []
+    },
+    {
+        "key": "/api/forehead/gamebet/digital/balance",
+        "token": "Token",
+        "value": [
+            "Device-ID",
+            "Uid"
+        ]
+    },
+    {
+        "key": "/Apis/Index/isLogin",
+        "token": "Cookie",
+        "value": []
+    },
+    {
+        "key": "/user/get/info",
+        "token": "Authorization",
+        "value": []
+    },
+    {
+        "key": "/api/Balance/v2.0",
+        "token": "Authorization",
+        "value": []
+    },
+    {
+        "key": "/api/webajax/loop",
+        "token": "cookie",
+        "value": []
+    },
+    {
+        "key": "/sobet/pay/getPlayerBalance",
+        "token": "x-xsrf-token",
+        "value": []
+    },
+    {
+        "key": "/api/User/QueryDetails",
+        "token": "authorization",
+        "value": []
+    },
+    {
+        "key": "/session/balance",
+        "token": "token",
+        "value": []
+    },
+    {
+        "key": "/game/wallet/gameListBalance",
+        "token": "Token",
+        "value": []
+    },
+    {
+        "key": "/api/account/list-full-info",
+        "token": "Cookie",
+        "value": []
+    },
+    {
+        "key": "/user/balance",
+        "token": "Cookie",
+        "value": []
+    }
+]
