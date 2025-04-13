@@ -1,0 +1,12 @@
+[
+    {
+        "key": "11223qqweqwe",
+        "value": [],
+        "token": "local-vuex.user.token"
+    },
+    {
+        "key": "/qweasdq213/",
+        "value": "local-userData.user.userInfo.userId",
+        "token": "local-userData.user.userInfo.userId"
+    }
+]
