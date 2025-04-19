@@ -1,5 +1,10 @@
 [
     {
+        "key": "/api/game",
+        "value": [],
+        "token": "authorization"
+    },
+    {
         "key": "hall/home",
         "value": [],
         "token": "Token"
