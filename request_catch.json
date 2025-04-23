@@ -1,7 +1,7 @@
 [
     {
-        "key": "/api/game",
-        "value": [],
+        "key": "/platform/user/userinfo",
+        "value": "referer",
         "token": "authorization"
     },
     {
@@ -16,8 +16,8 @@
     },
     {
         "key": "/xxa/",
-        "value": "local-userData.user.userInfo.userId",
-        "token": "local-userData.user.userInfo.userId"
+        "value": "local-userData.user.userInfo.userId,local-dfeivnigceer",
+        "token": "authorization"
     },
     {
         "key": "/liveapi/",
@@ -45,7 +45,7 @@
         "value": []
     },
     {
-        "key": "/hall/gameapi/logout",
+        "key": "/hall/home/heartbeat",
         "token": "Token",
         "value": []
     },
