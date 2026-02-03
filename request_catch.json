@@ -1,13 +1,8 @@
 [
     {
-        "key": "/platform/user/userinfo",
-        "value": "referer",
-        "token": "authorization"
-    },
-    {
-        "key": "hall/home",
+        "key": "api/v1/heartapi",
         "value": [],
-        "token": "Token"
+        "token": "local-userData.yxToken"
     },
     {
         "key": "RoaVG",
@@ -25,8 +20,8 @@
         "token": "x-auth-token"
     },
     {
-        "key": "/api/v1",
-        "value": [],
+        "key": "api/v1/venue",
+        "value": "",
         "token": "x-api-token"
     },
     {
@@ -42,10 +37,10 @@
     {
         "key": "/fd/api/v1/pay/check",
         "token": "X-Api-Token",
-        "value": []
+        "value": ""
     },
     {
-        "key": "/hall/home/heartbeat",
+        "key": "/hall/gameapi/logout",
         "token": "Token",
         "value": []
     },
@@ -129,6 +124,21 @@
     {
         "key": "/user/balance",
         "token": "Cookie",
+        "value": []
+    },
+    {
+        "key": "/platform/user/userinfo",
+        "value": "referer",
+        "token": "authorization"
+    },
+    {
+        "key": "hall/home",
+        "value": [],
+        "token": "Token"
+    },
+    {
+        "key": "/hall/home/heartbeat",
+        "token": "Token",
         "value": []
     }
 ]
