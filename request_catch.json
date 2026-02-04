@@ -1,5 +1,15 @@
 [
     {
+        "key": "/_glaxy_tus5r4_/",
+        "value": [],
+        "token": "token"
+    },
+    {
+        "key": "/user/balance",
+        "token": "Cookie",
+        "value": []
+    },
+    {
         "key": "api/v1/heartapi",
         "value": [],
         "token": "local-userData.yxToken"
@@ -118,11 +128,6 @@
     },
     {
         "key": "/api/account/list-full-info",
-        "token": "Cookie",
-        "value": []
-    },
-    {
-        "key": "/user/balance",
         "token": "Cookie",
         "value": []
     },
