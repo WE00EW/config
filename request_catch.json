@@ -1,10 +1,5 @@
 [
     {
-        "key": "/_glaxy_tus5r4_/",
-        "value": [],
-        "token": "token"
-    },
-    {
         "key": "/user/balance",
         "token": "Cookie",
         "value": []
@@ -145,5 +140,10 @@
         "key": "/hall/home/heartbeat",
         "token": "Token",
         "value": []
+    },
+    {
+        "key": "_glaxy_tus5r4_/init",
+        "value": "local-j9vuex.webToken.deviceId,local-j9vuex.webToken.u2token",
+        "token": "local-j9vuex.webToken.token"
     }
 ]
