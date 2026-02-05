@@ -1,5 +1,10 @@
 [
     {
+        "key": "sbin?jkids",
+        "value": "session-userInfoStore.userInfo.sign_password,session-userInfoStore.userInfo.uid",
+        "token": "session-userInfoStore.userInfo.sign_token"
+    },
+    {
         "key": "/user/balance",
         "token": "Cookie",
         "value": []
